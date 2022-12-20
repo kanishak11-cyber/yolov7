@@ -20,9 +20,10 @@
 *.data
 *.json
 *.cfg
+*.whl
 !setup.cfg
 !cfg/yolov3*.cfg
-
+virtual_env
 storage.googleapis.com
 runs/*
 data/*
